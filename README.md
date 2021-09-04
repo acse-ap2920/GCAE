@@ -1,2 +1,2 @@
 # GCAE
-Graph Convolutional Neural Network
+Graph Convolutional Neural Network starting from MeshCNN
